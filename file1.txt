@@ -1,8 +1,5 @@
 Good Afternoon!
 Have a nice Day
-<<<<<<< Updated upstream
-
 Helloooooooooooooooooooooooo!!!!!!!!
-=======
 Practice for git stash
->>>>>>> Stashed changes
+
